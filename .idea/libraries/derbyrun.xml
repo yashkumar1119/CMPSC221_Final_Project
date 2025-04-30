@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="derbyrun">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Derby/db-derby-10.17.1.0-lib/db-derby-10.17.1.0-lib/lib/derby.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
